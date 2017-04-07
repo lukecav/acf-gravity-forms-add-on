@@ -20,7 +20,7 @@ or if you make use of WPackagist
 
 To use the the field you just need to know how advanced custom fields work. You can check out [their documentation](https://www.advancedcustomfields.com/resources/)
 
-The Gravityforms Add-on returns either an single form object / id or an array of objects / id's
+The Gravity forms Add-on returns either an single form object / id or an array of objects / id's
 Now we know that we can easily use it to build our fields :)
 
 #### If you return an ID
