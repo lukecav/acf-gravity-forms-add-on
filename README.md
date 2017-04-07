@@ -1,5 +1,5 @@
 # Advanced Custom Fields: Gravity Forms Add-on
-Advanced Custom Field with which we can select Gravity forms.
+Advanced Custom Field with which you can select Gravity forms.
 
 Finally the Advanced Custom Fields: Gravity forms Add-on is available on the WordPress plugin repository!
 
@@ -20,7 +20,7 @@ or if you make use of WPackagist
 
 `composer require wpackagist/acf-gravityforms-add-on`
 
-## Using Advanced Custom Fields: Gravityforms Add-on
+## Using Advanced Custom Fields: Gravity Forms Add-on
 
 To use the the field you just need to know how advanced custom fields work. You can check out [their documentation](https://www.advancedcustomfields.com/resources/)
 
@@ -50,7 +50,7 @@ foreach($forms as $form) {
 
 ## Getting involved
 
-Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravity forms ACF Field GitHub Repository.](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
+Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravity Forms ACF Field GitHub Repository.](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
 
 ## Getting ahead
 
