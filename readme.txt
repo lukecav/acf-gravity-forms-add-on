@@ -1,6 +1,5 @@
 === Advanced Custom Fields: Gravity Forms Add-on ===
-Contributors: DannyvanHolten
-Donate link: http://www.dannyvanholten.com/
+Contributors: DannyvanHolten, lukevav
 Tags: gravityforms, gravity form, forms, form, acf, advanced custom fields, fields, custom fields
 Requires at least: 4.6
 Tested up to: 4.7.3
@@ -8,7 +7,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Advanced Custom Field with which you can select Gravityforms.
+Advanced Custom Field with which you can select Gravity forms.
 
 == Description ==
 
