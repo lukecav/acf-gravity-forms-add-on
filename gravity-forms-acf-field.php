@@ -1,12 +1,11 @@
 <?php
 /*
 Plugin Name: Advanced Custom Fields: Gravity Forms Add-on
-Plugin URI: https://github.com/dannyvanholten/acf-gravityforms-add-on
+Plugin URI: https://github.com/lukecav/acf-gravityforms-add-on
 Description: Advanced Custom Field with which we can select Gravity forms.
 Version: 1.0
-Author: Danny van Holten
-Author URI: http://www.dannyvanholten.com/
-Copyright: Danny van Holten
+Author: Luke Cavanagh
+Author URI: https://github.com/lukecav/
 */
 
 if (!defined('ABSPATH')) {
