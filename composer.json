@@ -1,6 +1,6 @@
 {
   "name": "dannyvanholten/acf-gravityforms-add-on",
-  "description": "Advanced Custom Fields: Gravityforms Add-on",
+  "description": "Advanced Custom Fields: Gravity Forms Add-on",
   "type": "wordpress-plugin",
   "license": "GPL-3.0+",
   "authors": [
