@@ -46,7 +46,7 @@ foreach($forms as $form) {
 
 ## Getting involved
 
-Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Advanced Custom Fields: Gravity Forms Add-on]](acf-gravity-forms-add-on)
+Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the Advanced Custom Fields: Gravity Forms Add-on(acf-gravity-forms-add-on)
 
 ## Getting ahead
 
