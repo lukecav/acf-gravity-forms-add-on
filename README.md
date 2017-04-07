@@ -1,7 +1,7 @@
 # Advanced Custom Fields: Gravityforms Add-on
-Advanced Custom Field with which we can select Gravityforms.
+Advanced Custom Field with which we can select Gravity forms.
 
-Finally the Advanced Custom Fields: Gravityforms Add-on is available on the WordPress plugin repository!
+Finally the Advanced Custom Fields: Gravity forms Add-on is available on the WordPress plugin repository!
 
 ## Getting started
 
@@ -50,7 +50,7 @@ foreach($forms as $form) {
 
 ## Getting involved
 
-Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravityforms ACF Field GitHub Repository.](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
+Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravity forms ACF Field GitHub Repository.](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
 
 ## Getting ahead
 
