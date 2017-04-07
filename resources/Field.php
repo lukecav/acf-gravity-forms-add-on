@@ -24,7 +24,7 @@ class Field extends acf_field
 	}
 
 	/**
-	 * Create extra settings for our gravityforms field. These are visible when editing a field.
+	 * Create extra settings for our gravity forms field. These are visible when editing a field.
 	 *
 	 * @param $field
 	 */
