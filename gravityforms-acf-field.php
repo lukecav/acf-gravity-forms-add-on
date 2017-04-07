@@ -2,7 +2,7 @@
 /*
 Plugin Name: Advanced Custom Fields: Gravity Forms Add-on
 Plugin URI: https://github.com/dannyvanholten/acf-gravityforms-add-on
-Description: Advanced Custom Field with which we can select Gravityforms.
+Description: Advanced Custom Field with which we can select Gravity forms.
 Version: 1.0
 Author: Danny van Holten
 Author URI: http://www.dannyvanholten.com/
