@@ -54,7 +54,6 @@ Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fo
 
 ## Getting ahead
 
-As Gravityforms & Advanced Custom Fields are continuously in development we like to take a look ahead together for what's coming. If you want to get involved developing Advanced Custom Fields: Gravityforms Add-on you can ask us if you can implement some of the features yourself.
+As Gravityforms & Advanced Custom Fields are continuously in development we like to take a look ahead together for what's coming. If you want to get involved developing Advanced Custom Fields: Gravity Forms Add-on you can ask us if you can implement some of the features yourself.
 
-- [x] Add dutch translations
-- [ ] Create an admin notice when plug-in gets activated but Gravityforms is not activated yet
+- [ ] Create an admin notice when plug-in gets activated but Gravity forms is not activated yet
