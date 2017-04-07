@@ -10,11 +10,11 @@ Advanced Custom Field with which you can select Gravity forms.
 
 You can also install Advanced Custom Fields: Gravityforms Add-on trough composer
 
-`composer require dannyvanholten/acf-gravityforms-add-on`
+`composer require lukecav/acf-gravity-forms-add-on`
 
 or if you make use of WPackagist
 
-`composer require wpackagist/acf-gravityforms-add-on`
+`composer require wpackagist/acf-gravity-forms-add-on`
 
 ## Using Advanced Custom Fields: Gravity Forms Add-on
 
@@ -46,10 +46,10 @@ foreach($forms as $form) {
 
 ## Getting involved
 
-Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravity Forms ACF Field GitHub Repository.](https://github.com/DannyvanHolten/acf-gravityforms-add-on)
+Want to get involved and improve Advanced Custom Fields: Gravityforms Add-on? Fork this repo and whenever you have something just make a pull request. After review we might add it to the [Gravity Forms ACF Field GitHub Repository.](acf-gravity-forms-add-on)
 
 ## Getting ahead
 
-As Gravityforms & Advanced Custom Fields are continuously in development we like to take a look ahead together for what's coming. If you want to get involved developing Advanced Custom Fields: Gravity Forms Add-on you can ask us if you can implement some of the features yourself.
+As Gravity forms & Advanced Custom Fields are continuously in development we like to take a look ahead together for what's coming. If you want to get involved developing Advanced Custom Fields: Gravity Forms Add-on you can ask us if you can implement some of the features yourself.
 
 - [ ] Create an admin notice when plug-in gets activated but Gravity forms is not activated yet
